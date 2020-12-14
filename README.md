@@ -1,7 +1,7 @@
-# ISL
+# Introduction to Statistical Learning with Julia
 
 ## Introduction
-[An Introduction to Statistical Learning: With Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) is a great book to learn data science. However, the associated code is [R](https://www.r-project.org/about.html) which is a nice programming language for statisticians. There is a project named [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) which ports the book to Python. I was inspired by the Python project and try to implement the introduced materials in this book to [Julialang](https://julialang.org/). Julia is a new language which is faster than C and more friendly to scientific computing than Python.
+[An Introduction to Statistical Learning: With Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) is a great book to learn data science. The associated code is [R](https://www.r-project.org/about.html) which is a nice programming language for statisticians. However, R is not fast and in my opinion, it does not have nice syntax. There is a project named [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) which ports the book to Python. I was inspired by the Python project and try to implement the introduced materials of this book in [Julialang](https://julialang.org/). Julia is a new language which is faster than C and more friendly to scientific computing than Python. Hopefully, this code is helpful for Julia lovers when they read the book.
 
 ## Library
 
