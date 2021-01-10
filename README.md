@@ -14,3 +14,7 @@ In this project, I use Julia v1.5.1 and the following library
 - [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) for data frame 
 - [GLM.jl](https://github.com/JuliaStats/GLM.jl) for generalized linear model
 - [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) for stat distributions
+
+## Note
+
+I write a [blog post](http://tndoan.com/2020/12/25/lessons-learned-from-islr/) to summarize the lessons that I learn after doing this project.
